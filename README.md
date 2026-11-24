@@ -175,7 +175,8 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 ## Training Loss Over Epochs Plot
 
-<img width="422" height="487" alt="image" src="https://github.com/user-attachments/assets/b9b5d214-6de9-4fe5-85ea-a94515abe5fd" />
+<img width="1167" height="1347" alt="Training Log with Final Registration Details" src="https://github.com/user-attachments/assets/e3044d72-3622-460e-a0b7-aa78a328e1be" />
+
 
 <img width="933" height="555" alt="image" src="https://github.com/user-attachments/assets/07528496-0f68-4ef3-8798-2b75e8a77caf" />
 
